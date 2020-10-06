@@ -1,2 +1,1 @@
-# Portfolio
-List of projects
+Веб-приложение, которое позволяет вести личный бюджет на ежемесячной основе. Построен на основе модулей IIFE, которые можно условно разделить на 3 части: UI Controller, Budget Controller, Global Controller.
